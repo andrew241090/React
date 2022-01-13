@@ -1,7 +1,12 @@
 .main{
     display: flex;
     justify-content: space-between;
+    color: white;
+    background: cornflowerblue;
 }
 .users{
     width: 600px;
+}
+.coment{
+    background: darkgray;
 }
