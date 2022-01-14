@@ -3,8 +3,8 @@ import Notebooks from "./components/Notebooks/Notebooks";
 
 
 import Users from "./components/Users/Users";
-import Posts from "./components/Posts/posts";
-import Comments from "./components/Comments/comments";
+import Posts from "./components/Posts/Posts";
+import Comments from "./components/Comments/Comments";
 
 import './style.css'
 
